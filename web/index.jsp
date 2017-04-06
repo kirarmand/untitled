@@ -9,6 +9,7 @@
 <html>
   <head>
     <title>$Title$</title>
+    <h1> coucou c'est Pierre</h1>
   </head>
   <body>
   $END$
